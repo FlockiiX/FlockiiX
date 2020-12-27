@@ -14,7 +14,14 @@
 
 ### Languages and Tools:
 <img align="left" alt="FlockiiX | Ij" width="22px" src="https://camo.githubusercontent.com/b9263a24e4fed59f6db0916940b95f9cecfd030b5f0b2765654e1784ab908079/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f696e74656c6c696a2d696465612d3536393139392e706e67" />
+<img align="left" alt="FlockiiX | VSCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="FlockiiX | Java" width="22px" src="https://camo.githubusercontent.com/78a4ecc643704d5b0e5ec865ed4628c93d148b0f1a3cccecad0c9811be721b1e/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f6a6176612d69636f6e2d696d6167652f6a6176612d69636f6e2d696d6167652d302e6a7067" />
+<img align="left" alt="FlockiiX | C++" width="22px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img align="left" alt="FlockiiX | JS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="FlockiiX | Python width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="FlockiiX | Node" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="FlockiiX | MySQL width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="FlockiiX | Mongodb" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" />
 <img align="left" alt="FlockiiX | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="FlockiiX | Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="FlockiiX | Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
