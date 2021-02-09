@@ -16,7 +16,7 @@
 <img align="left" alt="FlockiiX | Ij" width="22px" src="https://camo.githubusercontent.com/b9263a24e4fed59f6db0916940b95f9cecfd030b5f0b2765654e1784ab908079/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f696e74656c6c696a2d696465612d3536393139392e706e67" />
 <img align="left" alt="FlockiiX | VSCode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="FlockiiX | Java" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
-<img align="left" alt="FlockiiX | Kotlin" width="22px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />
+<img align="left" alt="FlockiiX | Kotlin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" />
 <img align="left" alt="FlockiiX | Python" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="FlockiiX | MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="FlockiiX | SQLite" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />
