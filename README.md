@@ -1,1 +1,1 @@
-<img align="mid" alt="PepeDancegif" src="https://github.com/FlockiiX/FlockiiX/blob/main/pepedance.gif" />
+<img src="https://github.com/FlockiiX/FlockiiX/blob/main/pepedance.gif" />
